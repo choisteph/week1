@@ -4,8 +4,7 @@ body{
 
 li{
 	text-decoration: none;
-	display:inline;
-	background-color: white;
+  font-family: helvetica;
 	color: black;
   font-size: 12pt;
 
@@ -13,30 +12,38 @@ li{
 
 h1{
   font-size: 45pt;
+  font-family: helvetica;
   font-style: bold;
 }
 
 h2{
   font-size: 30pt;
+  font-family: helvetica;
   font-style: bold;
 }
 h3{
   font-size: 25pt;
+  font-family: helvetica;
   font-style: normal;
 }
 h4{
   font-size:20pt;
+font-family: helvetica;
   font-style: italic;
 }
 
 p{
   font-size: 14pt;
+  font-family: helvetica;
 }
 
 nav a{
   text-decoration:none;
+  font-family: helvetica;
 }
 
 .current{
   text-transform: uppercase;
+  font-style: bold;
+  font-family: helvetica;
 }
