@@ -40,11 +40,12 @@ p{
 nav a{
   text-decoration:none;
   font-family: helvetica;
+  font-size: 14pt
 }
 
 .current{
   text-transform: uppercase;
   font-style: bold;
   font-family: helvetica;
-  background-color:#e6fff2
+  background-color:#e6fff2;
 }
