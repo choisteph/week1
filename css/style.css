@@ -1,0 +1,42 @@
+body{
+    background-color:#FFFFFF;
+}
+
+li{
+	text-decoration: none;
+	display:inline;
+	background-color: white;
+	color: black;
+  font-size: 12pt;
+
+}
+
+h1{
+  font-size: 45pt;
+  font-style: bold;
+}
+
+h2{
+  font-size: 30pt;
+  font-style: bold;
+}
+h3{
+  font-size: 25pt;
+  font-style: normal;
+}
+h4{
+  font-size:20pt;
+  font-style: italic;
+}
+
+p{
+  font-size: 14pt;
+}
+
+nav a{
+  text-decoration:none;
+}
+
+.current{
+  text-transform: uppercase;
+}
